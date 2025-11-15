@@ -48,11 +48,11 @@ const About = () => {
 
             <h2 className="text-4xl md:text-5xl font-black mb-6">
               <span className="bg-gradient-to-r from-gray-900 to-gray-700 bg-clip-text text-transparent">
-                Why Choose
+                The Web3 Marketing
               </span>
               <br />
               <span className="bg-gradient-to-r from-blue-600 via-purple-600 to-indigo-600 bg-clip-text text-transparent">
-                AlphaChainPR?
+                Powerhouse You Need
               </span>
             </h2>
 

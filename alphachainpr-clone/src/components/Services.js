@@ -94,11 +94,11 @@ const Services = () => {
 
             <h2 className="text-4xl md:text-6xl font-black mb-6">
               <span className="bg-gradient-to-r from-gray-900 to-gray-700 bg-clip-text text-transparent">
-                Comprehensive
+                Dominate Web3 with
               </span>
               <br />
               <span className="bg-gradient-to-r from-blue-600 via-purple-600 to-indigo-600 bg-clip-text text-transparent">
-                Web3 Marketing
+                Our Marketing Arsenal
               </span>
             </h2>
 

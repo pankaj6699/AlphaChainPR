@@ -28,16 +28,16 @@ const Hero = () => {
           </div>
 
           {/* Main Headline */}
-          <h1 className="text-5xl md:text-7xl font-black mb-6 animate-fade-in-up delay-200">
+            <h1 className="text-5xl md:text-7xl font-black mb-6 animate-fade-in-up delay-200">
             <span className="bg-gradient-to-r from-white via-blue-100 to-purple-100 bg-clip-text text-transparent">
-              Transform Your
+              Launch Your
             </span>
             <br />
             <span className="bg-gradient-to-r from-blue-400 via-purple-400 to-indigo-400 bg-clip-text text-transparent">
-              Web3 Vision
+              Web3 Project
             </span>
             <br />
-            <span className="text-white">Into Reality</span>
+            <span className="text-white">Into the Stratosphere</span>
           </h1>
 
           {/* Subheading */}

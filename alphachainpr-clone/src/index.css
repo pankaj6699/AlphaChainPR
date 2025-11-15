@@ -2,6 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Global Zoom - Reduce site by ~5% (non-Firefox browsers) */
+body {
+  zoom: 0.95;
+}
+
 /* Global Styles */
 body {
   margin: 0;
